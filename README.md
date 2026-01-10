@@ -39,11 +39,13 @@ Key Variables:
   <li>Categorized institutions by ownership, selectivity tiers (admission rate quartiles), and cost tiers (cost of attendance quartiles) using CASE WHEN syntax</li>
   <li>Compared graduation, retention, and employment outcomes across institutional groups using multiple aggregate functions</li>
 </ul>
-
-  
 </p>
 
+<h2>💡Conclusions from the analysis</h2>
+<p>This project analyzes institution-level data from the U.S. Department of Education’s College Scorecard to examine how institutional characteristics—such as ownership type, selectivity, and cost of attendance—are associated with student outcomes, including graduation rates, retention rates, and early employment outcomes.
 
+The analysis focuses specifically on four-year, bachelor’s degree–granting institutions, with the goal of producing analysis-ready datasets and interpretable insights relevant to institutional research, higher education policy, and data analytics roles.</p>
 </p> 
+
 </body>
 </html>
