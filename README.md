@@ -42,9 +42,11 @@ Key Variables:
 </p>
 
 <h2>💡Conclusions from the analysis</h2>
-<p>This project analyzes institution-level data from the U.S. Department of Education’s College Scorecard to examine how institutional characteristics—such as ownership type, selectivity, and cost of attendance—are associated with student outcomes, including graduation rates, retention rates, and early employment outcomes.
+<p>Institution type: Public and private nonprofit schools have higher graduation and retention rates than private for-profit schools; private nonprofits are slightly higher than publics in graduation.
 
-The analysis focuses specifically on four-year, bachelor’s degree–granting institutions, with the goal of producing analysis-ready datasets and interpretable insights relevant to institutional research, higher education policy, and data analytics roles.</p>
+Selectivity: More selective institutions show higher graduation rates, but employment rates are similar across selectivity tiers (job quality/earnings not available).
+
+Cost: Higher-cost institutions have higher graduation rates, while employment rates are relatively consistent across cost tiers.</p>
 </p> 
 
 </body>
